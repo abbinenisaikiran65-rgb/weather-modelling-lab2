@@ -22,7 +22,7 @@ Where:
 - Matplotlib
 
 ## File
-- lab3.py
+- lab2.py
 
 ## Output
 The output is a graph showing temperature variation with respect to time.
